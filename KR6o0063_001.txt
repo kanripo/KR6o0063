@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:21.806890
+#+DATE: 2015-08-30 21:00:22.382528
 #+TITLE: 諸教決定名義論
 #+PROPERTY: CBETA_ID T32n1658
 #+PROPERTY: ID KR6o0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1658
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0063_T_000-0507b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0063_T_001-0507b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1658¶
-
- 諸教決定名義論¶
+No. 1658¶
+諸教決定名義論¶
 ¶
 聖慈氏菩薩造¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
@@ -46,7 +45,7 @@ No.1658¶
 
 所言法界文字此復云何。是故今說。所謂。¶
 
-迦(訖當切)佉(去當切)誐(宜當切)伽(其當切)左(左當切)蹉(悽當切)惹(𠰒當切)¶
+迦(訖當切)佉(去當切)誐(宜當切)伽(其當切)左(左當切)蹉(悽當切)惹([口*尒]當切)¶
 　酇(齊當切)吒(知江切)姹(敕江切)拏(尼江切)　茶(直江切)多(低剛切)他(梯剛切)¶
 那(泥剛切)　馱(蹄剛切)波(卑剛切)頗(紕剛切)摩(縻剛切)　婆(步剛切)羊囉¶
 羅罔桑[元*欠](呼郎切)。¶
