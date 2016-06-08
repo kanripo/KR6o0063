@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:21.806890
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:54
 #+TITLE: 諸教決定名義論
 #+PROPERTY: CBETA_ID T32n1658
 #+PROPERTY: ID KR6o0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1658
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0063_T_000-0507b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0063_T_001-0507b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1658¶
-
- 諸教決定名義論¶
+No. 1658¶
+諸教決定名義論¶
 ¶
 聖慈氏菩薩造¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
@@ -24,9 +23,9 @@ No.1658¶
 「　歸命一切佛世尊
 　歸命所說三乘法¶
 　歸命一切和合眾
-　歸命普賢法界理
+　歸命普賢法界理」
 #+END_VERSE
-」¶
+¶
 
 今當略說一切教中諸根本字。彼如實義此¶
 中云何。所謂。¶
